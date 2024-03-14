@@ -1,3 +1,7 @@
+UPDATED FOR use in UE 5.3
+_________________________
+
+
 Metaballs FX for Unreal Engine 5.0 Early Access
 
 https://www.youtube.com/watch?v=Z0xbnEMbMxw
